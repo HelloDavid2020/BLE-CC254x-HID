@@ -30,7 +30,7 @@
     </Static>
     <Windows>
       
-    <Wnd0>
+    <Wnd2>
         <Tabs>
           <Tab>
             <Identity>TabID-29751-23273</Identity>
@@ -42,20 +42,20 @@
           </Tab>
         </Tabs>
         
-      <SelectedTab>0</SelectedTab></Wnd0><Wnd1><Tabs><Tab><Identity>TabID-10476-3659</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd1></Windows>
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3><Tabs><Tab><Identity>TabID-10476-3659</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
     <Editor>
       
       
       
       
-    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\Hidapp_Main.c</Filename><XPos>0</XPos><YPos>97</YPos><SelStart>4126</SelStart><SelEnd>4126</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\hidapp.c</Filename><XPos>0</XPos><YPos>1386</YPos><SelStart>41997</SelStart><SelEnd>41997</SelEnd></Tab><ActiveTab>1</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Profiles\Roles\gapbondmgr.h</Filename><XPos>0</XPos><YPos>126</YPos><SelStart>8186</SelStart><SelEnd>8186</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\ble\include\hci.h</Filename><XPos>0</XPos><YPos>260</YPos><SelStart>16047</SelStart><SelEnd>16047</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\ble\controller\include\ll.h</Filename><XPos>0</XPos><YPos>333</YPos><SelStart>19073</SelStart><SelEnd>19073</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\Hidapp_Main.c</Filename><XPos>0</XPos><YPos>97</YPos><SelStart>4126</SelStart><SelEnd>4126</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\hidapp.c</Filename><XPos>0</XPos><YPos>1386</YPos><SelStart>41706</SelStart><SelEnd>41706</SelEnd></Tab><ActiveTab>1</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Profiles\Roles\gapbondmgr.h</Filename><XPos>0</XPos><YPos>126</YPos><SelStart>8186</SelStart><SelEnd>8186</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\ble\include\hci.h</Filename><XPos>0</XPos><YPos>260</YPos><SelStart>16047</SelStart><SelEnd>16047</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\ble\controller\include\ll.h</Filename><XPos>0</XPos><YPos>333</YPos><SelStart>19073</SelStart><SelEnd>19073</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
     <Positions>
       
       
       
       
       
-    <Top><Row0><Sizes><Toolbar-051a07b8><key>iaridepm.enu1</key></Toolbar-051a07b8></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>411</Bottom><Right>269</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>197</yscreen><sizeHorzCX>146413</sizeHorzCX><sizeHorzCY>287591</sizeHorzCY><sizeVertCX>198389</sizeVertCX><sizeVertCY>602920</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>229</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>231</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>337226</sizeHorzCY><sizeVertCX>207906</sizeVertCX><sizeVertCY>337226</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+    <Top><Row0><Sizes><Toolbar-05080c68><key>iaridepm.enu1</key></Toolbar-05080c68></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>411</Bottom><Right>269</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>197</yscreen><sizeHorzCX>146413</sizeHorzCX><sizeHorzCY>287591</sizeHorzCY><sizeVertCX>198389</sizeVertCX><sizeVertCY>602920</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>229</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>231</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>337226</sizeHorzCY><sizeVertCX>207906</sizeVertCX><sizeVertCY>337226</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
   </Desktop>
 </Workspace>
 
